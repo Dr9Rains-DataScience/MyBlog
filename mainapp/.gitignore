@@ -5,6 +5,7 @@
 *.pyo
 env/
 venv/
+app.db
 flaskblog/
 .venv/
 env*
